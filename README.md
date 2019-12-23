@@ -49,7 +49,7 @@ python 7.massive_vector_ANN/ann.py
 please watch 8.flask_project/1.flask_gunicorn/README.md
 ```
 - flask: web project(html,css,js,deploy)
-```
+```python
 please watch 8.flask_project/flask_web
 
 this is a rotating album web project
