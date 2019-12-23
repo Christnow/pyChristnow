@@ -48,7 +48,7 @@ python 7.massive_vector_ANN/ann.py
 ```python
 please watch 8.flask_project/1.flask_gunicorn/README.md
 ```
--flask: web project(html,css,js,deploy)
+- flask: web project(html,css,js,deploy)
 ```
 please watch 8.flask_project/flask_web
 
@@ -89,4 +89,4 @@ python 10.python_turtle/peiqi.py
 ## To be continued
 ...
 ## The source code
-https://github.com/Christnow/pyChristnow.git
+[https://github.com/Christnow/pyChristnow.git](https://github.com/Christnow/pyChristnow.git)
