@@ -49,13 +49,9 @@ python 7.massive_vector_ANN/ann.py
 please watch 8.flask_project/1.flask_gunicorn/README.md
 ```
 - flask: web project(html,css,js,deploy)
-```python
 please watch 8.flask_project/flask_web
-
 this is a rotating album web project
-
 run: python manage.py runserver
-```
 ### 9.monitor
 - python monitor linux(cpu,gpu,data,etc) and send email
 ```python
