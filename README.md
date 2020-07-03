@@ -82,6 +82,27 @@ python 10.python_turtle/flower.py
 ```python
 python 10.python_turtle/peiqi.py
 ```
+### 11.add_docs.py
+```
+add docs for def and class
+```
+### 12.deep_learning.py
+```
+Summary of neural network
+```
+
+### 13.machine_learning.py
+```
+Summary of ml
+```
+### 14.timer.py
+```python
+with timeiter(desc='process range time is'):
+    s = [x for x in range(10000)]
+    with timeiter(desc='one range time is'):
+        b = [x for x in range(100000)]
+```
+
 ## To be continued
 ...
 ## The source code
