@@ -2,7 +2,7 @@
 > Using python to record various scripts
 
 ## Requirement
-- Python==3.6.8
+- Python==3.7.4
 ## Script and Description
 ### 1.read oversized files
 - generator and iterator reading large files
